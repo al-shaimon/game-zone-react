@@ -1,4 +1,5 @@
 import './App.css'
+import Footer from './pages/Shared/Footer/Footer'
 import NavBar from './pages/Shared/NavBar/NavBar'
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
   return (
     <>
       <NavBar/>
+      <Footer/>
     </>
   )
 }
