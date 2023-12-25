@@ -18,10 +18,10 @@ const PlayOnline = () => {
             games online for free, any time, anywhere , on any device.
           </p>
         </div>
-        <div className="relative px-10 md:ml-20">
+        <div className="relative pr-10 pl-5 md:px-10 md:ml-20">
           <img className="w-full" src={logo1} alt="" />
           <img
-            className="absolute -bottom-10 left-0 w-24 md:w-36 lg:w-48 md:-ml-20"
+            className="absolute -bottom-10 right-0 md:left-0 w-24 md:w-36 lg:w-48 md:-ml-20"
             src={logo2}
             alt=""
           />
