@@ -6,6 +6,9 @@ export default {
       fontFamily: {
         workSans: ['Work Sans', 'sans-serif'],
       },
+      colors: {
+        'primary': '#FF42A5'
+      }
     },
   },
   plugins: [],

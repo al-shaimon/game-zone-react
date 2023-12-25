@@ -1,10 +1,11 @@
 import './App.css'
+import NavBar from './pages/Shared/NavBar/NavBar'
 
 function App() {
 
   return (
     <>
-      <h4 className='text-4xl'>Hello</h4>
+      <NavBar/>
     </>
   )
 }
