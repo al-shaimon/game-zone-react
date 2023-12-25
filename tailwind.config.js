@@ -7,8 +7,9 @@ export default {
         workSans: ['Work Sans', 'sans-serif'],
       },
       colors: {
-        'primary': '#FF42A5'
-      }
+        primary: '#FF42A5',
+        secondary: '#8758F1',
+      },
     },
   },
   plugins: [],

@@ -1,15 +1,16 @@
-import './App.css'
-import Footer from './pages/Shared/Footer/Footer'
-import NavBar from './pages/Shared/NavBar/NavBar'
+import './App.css';
+import Banner from './pages/Home/Banner/Banner';
+import Footer from './pages/Shared/Footer/Footer';
+import NavBar from './pages/Shared/NavBar/NavBar';
 
 function App() {
-
   return (
     <>
-      <NavBar/>
-      <Footer/>
+      <NavBar />
+      <Banner />
+      <Footer />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
