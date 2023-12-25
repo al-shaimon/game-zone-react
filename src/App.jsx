@@ -1,6 +1,7 @@
 import './App.css';
 import Banner from './pages/Home/Banner/Banner';
 import Community from './pages/Home/Community/Community';
+import OnlineGames from './pages/Home/OnlineGames/OnlineGames';
 import Footer from './pages/Shared/Footer/Footer';
 import NavBar from './pages/Shared/NavBar/NavBar';
 
@@ -10,6 +11,7 @@ function App() {
       <NavBar />
       <Banner />
       <Community />
+      <OnlineGames />
       <Footer />
     </>
   );
