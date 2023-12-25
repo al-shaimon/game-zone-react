@@ -3,6 +3,7 @@ import Banner from './pages/Home/Banner/Banner';
 import Community from './pages/Home/Community/Community';
 import OnlineGames from './pages/Home/OnlineGames/OnlineGames';
 import PlayInstantly from './pages/Home/PlayInstantly/PlayInstantly';
+import PlayOnline from './pages/Home/PlayOnline/PlayOnline';
 import Footer from './pages/Shared/Footer/Footer';
 import NavBar from './pages/Shared/NavBar/NavBar';
 
@@ -14,6 +15,7 @@ function App() {
       <Community />
       <OnlineGames />
       <PlayInstantly />
+      <PlayOnline />
       <Footer />
     </>
   );
