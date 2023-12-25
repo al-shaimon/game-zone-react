@@ -13,7 +13,7 @@ const OnlineGames = () => {
             Funny Videos
           </span>
         </h3>
-        <p className="text-[#534C64] text-center px-10 mt-3">
+        <p className="text-[#534C64] text-sm text-center px-10 mt-3">
           A Collection of Hilarious Videos to Brighten Your Day
         </p>
       </div>
