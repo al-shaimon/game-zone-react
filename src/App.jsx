@@ -1,6 +1,7 @@
 import './App.css';
 import Banner from './pages/Home/Banner/Banner';
 import Careers from './pages/Home/Careers/Careers';
+import Categories from './pages/Home/Categories/Categories';
 import Community from './pages/Home/Community/Community';
 import OnlineGames from './pages/Home/OnlineGames/OnlineGames';
 import PlayInstantly from './pages/Home/PlayInstantly/PlayInstantly';
@@ -18,6 +19,7 @@ function App() {
       <PlayInstantly />
       <PlayOnline />
       <Careers />
+      <Categories />
       <Footer />
     </>
   );
